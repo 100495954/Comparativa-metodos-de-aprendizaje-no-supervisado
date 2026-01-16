@@ -19,10 +19,7 @@ El trabajo se ha desarrollado en formato **Jupyter Notebook**, facilitando tanto
 ## Autores
 
 - **Hugo Cuevas Romera** – 100495962  
-- **Pablo …** – 100495954  
-
-Repositorio original:  
-https://github.com/100495962/AA_P2_100495962_100495954.git
+- **Pablo …** – 100495954
 
 ---
 
