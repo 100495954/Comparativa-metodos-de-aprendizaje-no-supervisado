@@ -19,7 +19,7 @@ El trabajo se ha desarrollado en formato **Jupyter Notebook**, facilitando tanto
 ## Autores
 
 - **Hugo Cuevas Romera** – 100495962  
-- **Pablo …** – 100495954
+- **Pablo Lorenzo Martín** – 100495954
 
 ---
 
